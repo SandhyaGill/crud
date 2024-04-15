@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">crud</string>
+    <string name="hello">Hello!!</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="save">Save</string>
+    <string name="add_details">Add Details</string>
+    <string name="name">Name : </string>
+    <string name="date">"Date : "</string>
+    <string name="enter_date">Enter Date</string>
+    <string name="select_date">Select date</string>
+    <string name="delete">Delete</string>
+    <string name="edit_details">Edit Details</string>
+    <string name="update">Update</string>
+    <string name="saved">Saved</string>
+</resources>
